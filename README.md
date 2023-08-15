@@ -4,3 +4,5 @@ This repository contains some OTA experiments for different size OTA partitions.
 
 
 
+git update-index --assume-unchanged platformio.ini
+git update-index --no-assume-unchanged platformio.ini
